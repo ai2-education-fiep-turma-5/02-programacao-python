@@ -69,7 +69,7 @@ Obs.: Em módulos futuros, será explicado como utilizar a lib `matplotlib`.
 
 #### Exercício 5
 
-Utilize o repositório [profiles](https://github.com/ai2-education-fiep-turma-3/resident-profiles), criar um novo diretório no formato `nome-sobrenome` (utilizar último sobrenome - não utilizar letras maiúsculas). Criar um novo `README.md` no seu diretório contendo o seu perfil (como uma espécie de mini CV) utilizando `Markdown`.
+Utilize o repositório [profiles](https://github.com/ai2-education-fiep-turma-5/resident-profiles), criar um novo diretório no formato `nome-sobrenome` (utilizar último sobrenome - não utilizar letras maiúsculas). Criar um novo `README.md` no seu diretório contendo o seu perfil (como uma espécie de mini CV) utilizando `Markdown`.
 
 
 
