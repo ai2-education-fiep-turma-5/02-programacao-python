@@ -8,4 +8,6 @@
 
 * Aula 4 - Manipulação de arquivos e Numpy ([Notebook](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/src/aula4), [Data](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/src/aula4/data))
 
+* Aula 5 - Gerenciamento de Memória e Introdução a Programação Orientada Objeto ([Slide](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/slides/aula5/POO-Python.pdf), [Notebook](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/src/aula5)) 
+
 
