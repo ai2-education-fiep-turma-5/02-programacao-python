@@ -10,4 +10,6 @@
 
 * Aula 5 - Gerenciamento de Memória e Introdução a Programação Orientada Objeto ([Slide](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/slides/aula5/POO-Python.pdf), [Notebook](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/src/aula5)) 
 
+* Aula 6 - Resolução Warmup ([Notebook](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/src/aula6), [Exercícios](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/exercicios/aula6))
+
 
