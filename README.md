@@ -14,4 +14,4 @@
 
 * Aula 7 - UML e Orientação Objeto 2 ([Slide](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/slides/aula7/uml_OO.pdf), [Exercícios](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/exercicios/aula7))
 
-
+* Aula 8 - Herança e Orientação Objeto 3 ([Slide](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/slides/aula8/Python_heranca.pdf), [Notebook](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/src/aula8))
