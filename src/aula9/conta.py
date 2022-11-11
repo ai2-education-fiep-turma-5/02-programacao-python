@@ -38,7 +38,7 @@ class Conta:
             return False
         else:
             destino.deposita(valor)
-            self.historico.transacoes.append("transferência de {} para conta {}".format(valor, destino))
+            self.historico.transacoes.append("transferência de {} para conta {}".format(valor, destino._numero))
             return True
     def get_saldo(self):
         return self.__saldo

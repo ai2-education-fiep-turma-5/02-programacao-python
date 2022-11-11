@@ -16,4 +16,4 @@ conta2.transfere_para(conta1,1000)
 conta1.extrato()
 conta2.extrato()
 
-conta2.historico.imprime()
+conta1.historico.imprime()
