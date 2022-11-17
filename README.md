@@ -17,3 +17,5 @@
 * Aula 8 - Herança e Orientação Objeto 3 ([Slide](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/slides/aula8/Python_heranca.pdf), [Notebook](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/src/aula8))
 
 * Aula 9 - VSCode e Orientação Objeto 3 ([File.py](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/src/aula9))
+
+* Aula 10 - Introdução ao Pandas ([Slide](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/slides/aula10/pandas.pdf), [Notebook](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/src/aula10))
