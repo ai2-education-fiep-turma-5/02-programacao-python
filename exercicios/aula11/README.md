@@ -11,6 +11,7 @@ Baseado nesses conteúdos e utilizando [Dataset](https://github.com/ai2-educatio
   * Desenvolva as classes que julgarem necessárias para a **estruturação** do código utilizando Orientação Objeto.
 
 1. `Metodos:`
+
    1.1 leitura da base de dados;
 
    1.2 agrupamentos;
