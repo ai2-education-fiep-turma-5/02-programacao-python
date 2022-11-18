@@ -19,3 +19,5 @@
 * Aula 9 - VSCode e Orientação Objeto 3 ([File.py](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/src/aula9))
 
 * Aula 10 - Introdução ao Pandas ([Slide](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/slides/aula10/pandas.pdf), [Notebook](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/src/aula10))
+
+* Aula 11 - Pandas II ([Notebook](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/src/aula11), [Dataset](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/src/aula11/data), [Exercícios](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/exercicios/aula11))
