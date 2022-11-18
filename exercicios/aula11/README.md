@@ -12,10 +12,15 @@ Baseado nesses conteúdos e utilizando [Dataset](https://github.com/ai2-educatio
 
 1. `Metodos:`
    1.1 leitura da base de dados;
+
    1.2 agrupamentos;
+
    1.3 troca de valores;
+
    1.4 inserção de valores;
+
    1.5 exclusão de valores;
+
    1.6 salvar um `df`
 
 Caso julgue necessário, desenvolva os métodos que possam contribuir para nossos futuros trabalhos pois, nos módulos seguintes, iremos utilizar herança das classes e métodos desenvolvidos nessa atividade.
