@@ -20,4 +20,6 @@
 
 * Aula 10 - Introdução ao Pandas ([Slide](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/slides/aula10/pandas.pdf), [Notebook](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/src/aula10))
 
-* Aula 11 - Pandas II ([Notebook](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/src/aula11), [Dataset](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/src/aula11/data), [Exercícios](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/exercicios/aula11))
+* Aula 11 - Pandas II ([Notebook](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/src/aula11), [Dataset](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/src/data), [Exercícios](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/exercicios/aula11))
+
+* Aula 12 - Pandas III ([Notebook](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/src/aula12), [Dataset](https://github.com/ai2-education-fiep-turma-5/02-programacao-python/blob/main/src/data))
